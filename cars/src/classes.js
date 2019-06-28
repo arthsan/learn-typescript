@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var Car = /** @class */ (function () {
     function Car(model) {
         this.modelID = model;
@@ -10,11 +12,4 @@ var Car = /** @class */ (function () {
     };
     return Car;
 }());
-var Vectra = {
-    model: 'Vectra',
-    make: 'GM',
-    pot: 50
-};
-var newCar = new Car(Vectra);
-newCar.potIncrement(20);
-newCar.displayMake();
+exports.Car = Car;
