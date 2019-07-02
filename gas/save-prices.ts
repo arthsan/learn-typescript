@@ -3,7 +3,7 @@ const fs = require('fs');
 
 export const list = async () => {
   const prices = new PetrobrasSource();
-  const data = await prices.fetch();
+  const data = await prices.getPrices();
   fs.writeFile('prices.json', JSON.stringify(data, null, 2), (err) => {
     if (err) throw err;
   });
