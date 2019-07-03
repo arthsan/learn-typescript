@@ -1,0 +1,187 @@
+{
+  "MANAUS": {
+    "gasolina": 1.6645,
+    "diesels500": 2.0511,
+    "diesels10": 2.0899
+  },
+  "ITACOATIARA": {
+    "gasolina": 1.6285,
+    "diesels500": 2.0216,
+    "diesels10": 2.0603
+  },
+  "BELÉM": {
+    "gasolina": 1.7263,
+    "diesels500": 2.0549,
+    "diesels10": 2.0996
+  },
+  "SÃO LUÍS": {
+    "gasolina": 1.5928,
+    "diesels500": 2.0251,
+    "diesels10": 2.0461
+  },
+  "FORTALEZA": {
+    "gasolina": 1.7373,
+    "diesels500": 2.0791,
+    "diesels10": 2.1238
+  },
+  "GUAMARÉ": {
+    "gasolina": 1.66,
+    "diesels500": 2.047,
+    "diesels10": null
+  },
+  "CABEDELO": {
+    "gasolina": 1.6894,
+    "diesels500": 2.0745,
+    "diesels10": null
+  },
+  "IPOJUCA": {
+    "gasolina": 1.6557,
+    "diesels500": null,
+    "diesels10": 2.0432
+  },
+  "MACEIÓ": {
+    "gasolina": 1.7066,
+    "diesels500": 2.0622,
+    "diesels10": null
+  },
+  "SÃO FRANCISCO DO CONDE": {
+    "gasolina": 1.722,
+    "diesels500": 2.0652,
+    "diesels10": 2.11
+  },
+  "CANDEIAS": {
+    "gasolina": 1.722,
+    "diesels500": 2.0651,
+    "diesels10": 2.1099
+  },
+  "JEQUIÉ": {
+    "gasolina": 1.7793,
+    "diesels500": 2.1238,
+    "diesels10": 2.1685
+  },
+  "ITABUNA": {
+    "gasolina": 1.7867,
+    "diesels500": 2.1313,
+    "diesels10": 2.176
+  },
+  "VITÓRIA": {
+    "gasolina": 1.7626,
+    "diesels500": 2.1826,
+    "diesels10": 2.2273
+  },
+  "VILA VELHA": {
+    "gasolina": 1.7626,
+    "diesels500": 2.1826,
+    "diesels10": 2.2273
+  },
+  "VOLTA REDONDA": {
+    "gasolina": 1.801,
+    "diesels500": 2.1666,
+    "diesels10": null
+  },
+  "DUQUE DE CAXIAS": {
+    "gasolina": 1.7784,
+    "diesels500": 2.158,
+    "diesels10": 2.2027
+  },
+  "BETIM": {
+    "gasolina": 1.8377,
+    "diesels500": 2.2085,
+    "diesels10": 2.2532
+  },
+  "UBERLÂNDIA": {
+    "gasolina": 1.853,
+    "diesels500": 2.2472,
+    "diesels10": null
+  },
+  "UBERABA": {
+    "gasolina": 1.8796,
+    "diesels500": 2.2574,
+    "diesels10": 2.3021
+  },
+  "GUARULHOS": {
+    "gasolina": 1.7808,
+    "diesels500": 2.1538,
+    "diesels10": 2.1985
+  },
+  "BARUERI": {
+    "gasolina": 1.8369,
+    "diesels500": 2.1401,
+    "diesels10": 2.1848
+  },
+  "SÃO CAETANO DO SUL": {
+    "gasolina": 1.7548,
+    "diesels500": 2.134,
+    "diesels10": null
+  },
+  "CUBATÃO": {
+    "gasolina": 1.7174,
+    "diesels500": 2.1104,
+    "diesels10": 2.1551
+  },
+  "SANTOS": {
+    "gasolina": null,
+    "diesels500": 2.0826,
+    "diesels10": 2.1148
+  },
+  "PAULÍNIA": {
+    "gasolina": 1.7979,
+    "diesels500": 2.1647,
+    "diesels10": 2.2051
+  },
+  "SÃO JOSÉ DOS CAMPOS": {
+    "gasolina": 1.7512,
+    "diesels500": 2.1512,
+    "diesels10": 2.1959
+  },
+  "RIBEIRÃO PRETO": {
+    "gasolina": 1.8455,
+    "diesels500": 2.21,
+    "diesels10": 2.2547
+  },
+  "BRASÍLIA": {
+    "gasolina": 1.8903,
+    "diesels500": 2.2537,
+    "diesels10": null
+  },
+  "SENADOR CANEDO": {
+    "gasolina": 1.8861,
+    "diesels500": 2.2553,
+    "diesels10": 2.2868
+  },
+  "ARAUCÁRIA": {
+    "gasolina": 1.7347,
+    "diesels500": 2.1133,
+    "diesels10": 2.1494
+  },
+  "PARANAGUÁ": {
+    "gasolina": null,
+    "diesels500": 2.0662,
+    "diesels10": 2.0936
+  },
+  "ITAJAÍ": {
+    "gasolina": 1.7737,
+    "diesels500": 2.1688,
+    "diesels10": 2.2092
+  },
+  "GUARAMIRIM": {
+    "gasolina": 1.7694,
+    "diesels500": 2.1332,
+    "diesels10": 2.1736
+  },
+  "BIGUAÇU": {
+    "gasolina": 1.7916,
+    "diesels500": 2.1644,
+    "diesels10": 2.2042
+  },
+  "CANOAS": {
+    "gasolina": 1.7444,
+    "diesels500": 2.1108,
+    "diesels10": 2.1555
+  },
+  "RIO GRANDE": {
+    "gasolina": null,
+    "diesels500": null,
+    "diesels10": 2.1457
+  }
+}
